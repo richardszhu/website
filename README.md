@@ -13,6 +13,8 @@ RESUME TO DO:
 
 -remove non CS-related stuff
 
+-move skills up the page
+
 -remove high school info
 
 -less white space https://edward-sa.github.io/Resume.pdf
