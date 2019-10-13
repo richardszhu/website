@@ -13,9 +13,9 @@ RESUME TO DO:
 
 -remove non CS-related stuff
 
--move skills up the page
+-add more projects
 
--remove high school info
+-remove high school activities
 
 -less white space https://edward-sa.github.io/Resume.pdf
 
@@ -23,3 +23,5 @@ RESUME TO DO:
 
 
 resume resources: prodev@tbp.com or whatever their name is
+
+https://github.com/codebytere/so-you-want-an-internship#resume-books
