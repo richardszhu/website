@@ -1,13 +1,22 @@
 # website
 My Personal Website, made to practice HTML, CSS, Bootstrap, and jQuery
 
-https://www.taniarascia.com/what-is-bootstrap-and-how-do-i-use-it/
-
 https://getbootstrap.com/docs/4.3/getting-started/introduction/
 
 https://getbootstrap.com/docs/4.3/examples/
 
 https://startbootstrap.com/snippets/
+
+https://zhusrichard.wixsite.com/graphic-design-rz-2
+
+TO DO:
+Add a dark mode?
+
+Come up with a final streamlined layout
+
+Make sure ist compatible with mobile
+
+Add a retro mode with raw HTML, times new roman and 3d spinny gifs and exclamations and hilarious shitty cgi renders
 
 RESUME TO DO:
 
