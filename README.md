@@ -5,7 +5,7 @@ https://www.taniarascia.com/what-is-bootstrap-and-how-do-i-use-it/
 
 https://getbootstrap.com/docs/4.3/getting-started/introduction/
 
-https://startbootstrap.com/snippets/
+https://getbootstrap.com/docs/4.3/examples/
 
 https://startbootstrap.com/snippets/
 
