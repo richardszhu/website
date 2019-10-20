@@ -14,6 +14,8 @@ https://victorface2.github.io/projects/
 https://bootswatch.com/
 
 TO DO:
+Add a Name + title image or maybe just a small profile pic
+
 Add a dark mode?
 
 Come up with a final streamlined layout
