@@ -24,7 +24,7 @@ Make sure ist compatible with mobile
 
 Add a retro mode with raw HTML, times new roman and 3d spinny gifs and exclamations and hilarious shitty cgi renders
 
-make a new css file to override any bootstrap style elements that i want to
+Find out how to make heading text align left when the columns start stacing
 
 RESUME TO DO:
 
