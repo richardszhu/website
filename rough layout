@@ -1,5 +1,3 @@
-ALL ONE PAGE
-
 AESTHETIC:
 Fonts: Helvetica/Arial, Roboto, Courier New, from the google fonts resources on the readme
 White or Light Grey Material Background
@@ -9,6 +7,9 @@ Different shades between the rows.
 General Design Principles:
 -Make it as fast to go through as possible: point user (recruiters hopefully) to resume and projects. Minimalist
 -keep it straight down, one page
+
+
+
 
 Nav Bar: About, Projects, Resume, Contact
 Each are just teleporters, except Resume, which is a direct link.
