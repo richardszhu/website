@@ -1,26 +1,46 @@
 ALL ONE PAGE
 
 AESTHETIC:
-Helvetica, maybe all caps the labels and headings
-White Background, maybea add a night mode?
+Fonts: Helvetica/Arial, Roboto, Courier New, from the google fonts resources on the readme
+White or Light Grey Material Background
+Maybe a Material dark / navy background (consider a thinner font if you do this)
+Different shades between the rows.
 
-Nav Bar: "Richard Zhu" About, Projects, Experience, Resume, Contact
+General Design Principles:
+-Make it as fast to go through as possible: point user (recruiters hopefully) to resume and projects. Minimalist
+-keep it straight down, one page
 
-#Back to top button
+Nav Bar: About, Projects, Resume, Contact
+Each are just teleporters, except Resume, which is a direct link.
 
-Introductory Wallpaper/pic
-"Richard Zhu"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pictures: Campanile Headshot, CalHacks W, Go Bears
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ABOUT (poss a picture to the right)
+hi,I am RICHARD ZHU -- (keep it concise)
+-Greeting, Year, Student at Cal, Location
+-cs and tech interests 
+-CS activities
+-plug resume ("see what I've done or what I'm doing or professional yadayada"
 
-About: Bio, interests, human paragraphs. Link to Contact, 
-"Look at my resume and projects" (Unordered list should be fine for this)
+<bold> Contact <bold>
+Unordered List (or even better, icons next to each.
+Contact info (Email, GitHub, LinkedIn)
+OR
+"Please feel free to <btn> Get in touch with me <btn>
+A teleporter down to the bottom.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+PROJECTS
+Project Gallery with images, short bio, and github links as the titles?
 
-Projects: Project Dump with images
-
-Classes: My favorite classes
-
-Resume: Button that links to a website/resume.pdf
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Contact: A thing at the bottom of the page with all my links
-Contact info (Location, Phone, Email, GitHub, LinkedIn) Add Icons
+- - -
+Email (Icon): mailto:rszhu@berkeley.edu
+GitHub (Icon): richardszhu
+LinkedIn (Icon): rszhu 
+
+You can use embedding for the icons probably
+Copyright 2019 Richard Zhu
 
 
