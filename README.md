@@ -1,6 +1,8 @@
 # website
 My Personal Website, made to practice HTML, CSS, Bootstrap, and jQuery
 
+## Resources
+
 https://getbootstrap.com/docs/4.3/getting-started/introduction/
 
 https://getbootstrap.com/docs/4.3/examples/
@@ -8,6 +10,12 @@ https://getbootstrap.com/docs/4.3/examples/
 https://startbootstrap.com/snippets/
 
 https://bootswatch.com/
+
+https://www.typewolf.com/google-fonts
+
+https://www.linkedin.com/help/linkedin/answer/85/promoting-your-public-profile?lang=en
+
+https://www.linkedin.com/pulse/how-create-linkedin-badge-your-website-brynne-tillman
 
 ## TO DO:
 Add a Name + title image or maybe just a small profile pic
@@ -45,3 +53,7 @@ https://zhusrichard.wixsite.com/graphic-design-rz-2
 https://anniewtang.github.io/
 
 https://victorface2.github.io/projects/
+
+https://www.jasonxzhou.com/
+
+http://danielrd.com/
