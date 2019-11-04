@@ -22,7 +22,7 @@ Add a retro mode with raw HTML, times new roman and 3d spinny gifs and exclamati
 
 Find out how to make heading text align left when the columns start stacing
 
-#RESUME TO DO:
+# RESUME TO DO:
 
 -remove non CS-related stuff
 
@@ -38,7 +38,7 @@ resume resources: prodev@tbp.com or whatever their name is
 
 https://github.com/codebytere/so-you-want-an-internship#resume-books
 
-#Inspiration:
+# Inspiration:
 
 https://zhusrichard.wixsite.com/graphic-design-rz-2
 
