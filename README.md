@@ -1,21 +1,5 @@
 # website
-My Personal Website, made to practice HTML, CSS, Bootstrap, and jQuery
-
-## Resources
-
-https://getbootstrap.com/docs/4.3/getting-started/introduction/
-
-https://getbootstrap.com/docs/4.3/examples/
-
-https://startbootstrap.com/snippets/
-
-https://bootswatch.com/
-
-https://www.typewolf.com/google-fonts
-
-https://www.linkedin.com/help/linkedin/answer/85/promoting-your-public-profile?lang=en
-
-https://www.linkedin.com/pulse/how-create-linkedin-badge-your-website-brynne-tillman
+My Personal Website, made to practice HTML, CSS, Bootstrap, and jQuery. Hosted at ocf.io/rszhu
 
 ## TO DO:
 Add a Name + title image or maybe just a small profile pic
@@ -57,3 +41,20 @@ https://victorface2.github.io/projects/
 https://www.jasonxzhou.com/
 
 http://danielrd.com/
+
+
+## Resources
+
+https://getbootstrap.com/docs/4.3/getting-started/introduction/
+
+https://getbootstrap.com/docs/4.3/examples/
+
+https://startbootstrap.com/snippets/
+
+https://bootswatch.com/
+
+https://www.typewolf.com/google-fonts
+
+https://www.linkedin.com/help/linkedin/answer/85/promoting-your-public-profile?lang=en
+
+https://www.linkedin.com/pulse/how-create-linkedin-badge-your-website-brynne-tillman
