@@ -7,13 +7,9 @@ https://getbootstrap.com/docs/4.3/examples/
 
 https://startbootstrap.com/snippets/
 
-https://zhusrichard.wixsite.com/graphic-design-rz-2
-
-https://victorface2.github.io/projects/
-
 https://bootswatch.com/
 
-TO DO:
+#TO DO:
 Add a Name + title image or maybe just a small profile pic
 
 Add a dark mode?
@@ -26,7 +22,7 @@ Add a retro mode with raw HTML, times new roman and 3d spinny gifs and exclamati
 
 Find out how to make heading text align left when the columns start stacing
 
-RESUME TO DO:
+#RESUME TO DO:
 
 -remove non CS-related stuff
 
@@ -34,11 +30,18 @@ RESUME TO DO:
 
 -remove high school activities
 
--less white space https://edward-sa.github.io/Resume.pdf
+-less white space
 
 -more quantitative descriptions
-
 
 resume resources: prodev@tbp.com or whatever their name is
 
 https://github.com/codebytere/so-you-want-an-internship#resume-books
+
+#Inspiration:
+
+https://zhusrichard.wixsite.com/graphic-design-rz-2
+
+https://anniewtang.github.io/
+
+https://victorface2.github.io/projects/
