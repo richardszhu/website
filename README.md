@@ -39,6 +39,8 @@ https://lettersfromsweden.se/acnestudios/
 
 https://zhusrichard.wixsite.com/graphic-design-rz-2
 
+http://hellohappy.org/beautiful-web-type/
+
 Personal CS Websites:
 
 https://anniewtang.github.io/
