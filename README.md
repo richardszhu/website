@@ -56,6 +56,8 @@ https://startbootstrap.com/snippets/
 
 https://bootswatch.com/
 
+https://developers.google.com/fonts/docs/getting_started
+
 https://www.typewolf.com/google-fonts
 
 https://www.linkedin.com/help/linkedin/answer/85/promoting-your-public-profile?lang=en
