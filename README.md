@@ -33,6 +33,8 @@ https://github.com/codebytere/so-you-want-an-internship#resume-books
 ## Inspiration:
 https://ced.berkeley.edu/academics/architecture/programs/undergraduate-minor
 
+https://www.readcaravan.com/homepage
+
 https://zhusrichard.wixsite.com/graphic-design-rz-2
 
 https://anniewtang.github.io/
