@@ -59,6 +59,11 @@ https://getbootstrap.com/docs/4.3/examples/
 https://startbootstrap.com/snippets/
 
 https://bootswatch.com/
+DARK MODE SWITCH:
+
+https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8
+
+FONTS:
 
 https://developers.google.com/fonts/docs/getting_started
 
