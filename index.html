@@ -18,6 +18,8 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Hind+Guntur">
   <style>
     body {
+      opacity: 0;
+      transition: opacity 2s;
       font-family: 'Hind Guntur', serif;
     }
   </style>
@@ -41,7 +43,7 @@
   <title>Richard Zhu</title>
 </head>
 
-<body>
+<body onload="document.body.style.opacity='1'">
 
   <!--========== NAV BAR ==========-->
   <nav class="navbar navbar-expand-lg navbar-light rounded">
@@ -54,20 +56,46 @@
       <!-- RIGHT ALIGNED <div class="collapse navbar-collapse justify-content-md-end" id="navbarsExample10"> -->
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="mr-4 ml-4 nav-link" href="#"><b>About</b></a>
+          <a class="mr-4 ml-4 nav-link" href="#">
+              <font face="Roboto" size="4">
+                About
+              </font>
+            </a>
         </li>
 
         <li class="mr-4 ml-4 nav-item">
-          <a class="nav-link" href="#"><b>Projects</b></a>
+          <a class="nav-link" href="#">
+              <font face="Roboto" size="4">
+                Projects
+              </font>
+            </a>
         </li>
 
         <li class="mr-4 ml-4 nav-item">
-          <a class="nav-link" href="#"><b>Resume</b></a>
+          <a class="nav-link" href="resume.pdf">
+              <font face="Roboto" size="4">
+                Resume
+              </font>
+            </a>
         </li>
 
         <li class="mr-4 ml-4 nav-item">
-          <a class="nav-link" href="#"><b>Contact</b></a>
+          <a class="nav-link" href="#">
+              <font face="Roboto" size="4">
+                Contact
+              </font>
+            </a>
         </li>
+        <!-- Dropdown
+        <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown10" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+              <div class="dropdown-menu" aria-labelledby="dropdown10">
+                <a class="dropdown-item" href="#">Action</a>
+                <a class="dropdown-item" href="#">Another action</a>
+                <a class="dropdown-item" href="#">Something else here</a>
+              </div>
+        </li>
+          -->
       </ul>
     </div>
   </nav>
