@@ -11,7 +11,7 @@ General Design Principles:
 
 
 
-Nav Bar: About, Projects, Resume, Contact     -DARK MODE SWITCH
+Nav Bar: About, Projects, Resume, Contact, Extra (Dropdown): DARK MODE SWITCH, Retro.html
 Each are just teleporters, except Resume, which is a direct link.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
