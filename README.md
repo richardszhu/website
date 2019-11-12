@@ -2,15 +2,13 @@
 My Personal Website, made to practice HTML, CSS, Bootstrap, and jQuery. Hosted at ocf.io/rszhu
 
 ## TO DO:
-Add a Name + title image or maybe just a small profile pic
+Continuously revise blueprint
 
-Add a dark mode?
-
-Come up with a final streamlined layout
+Add a dark mode switch
 
 Make sure ist compatible with mobile
 
-Add a retro mode with raw HTML, times new roman and 3d spinny gifs and exclamations and hilarious shitty cgi renders
+Add a retro mode with raw HTML, times new roman and 3d spinny gifs and exclamations and hilarious kitschy cgi renders
 
 Find out how to make heading text align left when the columns start stacing
 
