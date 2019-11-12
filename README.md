@@ -48,6 +48,8 @@ http://danielrd.com/
 
 ## Resources
 
+BOOTSTRAP:
+
 https://getbootstrap.com/docs/4.3/getting-started/introduction/
 
 https://getbootstrap.com/docs/4.3/examples/
@@ -55,6 +57,8 @@ https://getbootstrap.com/docs/4.3/examples/
 https://startbootstrap.com/snippets/
 
 https://bootswatch.com/
+
+https://getbootstrap.com/docs/4.0/utilities/spacing/
 
 DARK MODE SWITCH:
 
