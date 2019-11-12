@@ -10,6 +10,7 @@ General Design Principles:
 
 
 
+Fade In (JS / CSS)
 
 Nav Bar: About, Projects, Resume, Contact, Extra (Dropdown): DARK MODE SWITCH, Retro.html
 Each are just teleporters, except Resume, which is a direct link.
