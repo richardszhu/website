@@ -70,6 +70,14 @@ https://developers.google.com/fonts/docs/getting_started
 
 https://www.typewolf.com/google-fonts
 
+LINKEDINBADGE
+
 https://www.linkedin.com/help/linkedin/answer/85/promoting-your-public-profile?lang=en
 
 https://www.linkedin.com/pulse/how-create-linkedin-badge-your-website-brynne-tillman
+
+RETRO:
+
+https://www.w3schools.com/cssref/pr_background-repeat.asp
+
+10th GRADE SITE ON GDRIVE
