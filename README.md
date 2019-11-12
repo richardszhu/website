@@ -8,7 +8,7 @@ Add a dark mode switch
 
 Make sure ist compatible with mobile
 
-Add a retro mode with raw HTML, times new roman and 3d spinny gifs and exclamations and hilarious kitschy cgi renders
+Add a bonus pages: raw HTML retro mode, times new roman and 3d spinny gifs and exclamations and hilarious kitschy cgi renders
 
 Find out how to make heading text align left when the columns start stacing
 
