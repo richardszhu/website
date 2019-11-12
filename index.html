@@ -9,8 +9,35 @@
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-  <!-- Custom CSS -->
-  <link rel="stylesheet" href="helv.css">
+  <!-- Custom CSS (for fonts) (Activate whichever one i want)-->
+  <!--
+  <link rel="stylesheet" href="arch_font.css">
+  <link rel="stylesheet" href="helv_font.css">
+  -->
+  <!-- GOOGLE FONTS -->
+  <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Hind+Guntur">
+    <style>
+      body {
+        font-family: 'Hind Guntur', serif;
+      }
+    </style>
+    <!--
+    SANS SERIFS:
+    *Roboto  #same as my resume
+    *Overpass
+    *Lato
+    Hind+Guntur
+
+    SERIFS:
+    Crimson+Text
+
+    BOLD ONLY:
+    Palanquin+Dark
+    Archivo+Black
+    -->
+
+
   <title>Richard Zhu</title>
 </head>
 
@@ -56,14 +83,19 @@
   <!--==========ABOUT ==========-->
   <div id="about">
     <div class="pt-4 container">
-      <div class="row">
-        <div class="col-md-4 text-right">
-          <h1 class="pr-3 center-block"> <b> About Me </b> </h1>
-        </div>
-        <div class="col-md-8">
-          <p>Hello, my name is Richard! I am a Computer Science student at UC Berkeley, and am expecting to graduate in May of 2023.</p>
+      <div class="row flex-column-reverse flex-md-row"> <!-- reverse part to put image on top when mobile -->
+        <div class="col-md-6">
+          <br>
+          <br>
+          <br>
+          <br>
+          <p><font size="6">Hello, I'm <b>Richard Zhu</b>— </font><br>
+             a first year computer science student at UC Berkeley.</p>
           <p> I'm from San Diego, CA, but now live in the Bay Area. Some of my interests outside of computer science include soccer, film, fashion, but most of all, travel.</p>
           <p>Please take a look at my RESUME, as well as some of my projects on GITHUB </p>
+        </div>
+        <div class="col-md-6">
+          <h1> insert image here </h1>
         </div>
       </div>
     </div>
