@@ -35,13 +35,15 @@ https://ced.berkeley.edu/academics/architecture/programs/undergraduate-minor
 
 https://www.readcaravan.com/homepage
 
+https://lettersfromsweden.se/acnestudios/
+
 https://zhusrichard.wixsite.com/graphic-design-rz-2
+
+Personal CS Websites:
 
 https://anniewtang.github.io/
 
 https://victorface2.github.io/projects/
-
-https://www.jasonxzhou.com/
 
 http://danielrd.com/
 
