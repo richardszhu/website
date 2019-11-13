@@ -7,6 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="author" content="Richard Zhu">
 
+
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <!-- Custom CSS (for fonts) (Activate whichever one i want)-->
@@ -18,11 +19,11 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Hind+Guntur">
   <style>
     body {
-      opacity: 0;
-      transition: opacity 3s;
-      font-family: 'Hind Guntur', serif;
+      font-family: 'Roboto', serif;
     }
   </style>
+  <!-- Custom Stylesheet -->
+  <link rel="stylesheet" href="main.css">
   <!--
     SANS SERIFS:
     *Roboto  #same as my resume
@@ -39,14 +40,15 @@
     Archivo+Black
     -->
 
-
+  <link href="assets/r.png" rel="icon" type="image/x-icon" />
   <title>Richard Zhu</title>
 </head>
+
 
 <body onload="document.body.style.opacity='1'">
 
   <!--========== NAV BAR ==========-->
-  <nav class="navbar navbar-expand-lg navbar-light rounded">
+  <nav class="navbar fixed-top navbar-expand-lg navbar-light">
     <!-- "navbar navbar-expand-lg navbar-light bg-light rounded" -->
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample10" aria-controls="navbarsExample10" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -56,35 +58,35 @@
       <!-- RIGHT ALIGNED <div class="collapse navbar-collapse justify-content-md-end" id="navbarsExample10"> -->
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="mr-4 ml-4 nav-link" href="#">
-              <font face="Roboto" size="4">
-                About
-              </font>
-            </a>
+          <a class="mr-4 ml-4 nav-link" href="#about">
+            <font face="Roboto" size="4">
+              About
+            </font>
+          </a>
         </li>
 
         <li class="mr-4 ml-4 nav-item">
-          <a class="nav-link" href="#">
-              <font face="Roboto" size="4">
-                Projects
-              </font>
-            </a>
+          <a class="nav-link" href="#projects">
+            <font face="Roboto" size="4">
+              Projects
+            </font>
+          </a>
         </li>
 
         <li class="mr-4 ml-4 nav-item">
           <a class="nav-link" href="resume.pdf">
-              <font face="Roboto" size="4">
-                Resume
-              </font>
-            </a>
+            <font face="Roboto" size="4">
+              Resume
+            </font>
+          </a>
         </li>
 
         <li class="mr-4 ml-4 nav-item">
           <a class="nav-link" href="#">
-              <font face="Roboto" size="4">
-                Contact
-              </font>
-            </a>
+            <font face="Roboto" size="4">
+              Contact
+            </font>
+          </a>
         </li>
         <!-- Dropdown
         <li class="nav-item dropdown">
@@ -105,31 +107,83 @@
   <!--==========ABOUT ==========-->
   <div id="about">
     <div class="pt-4 pb-4 container">
-      <div class="row flex-column-reverse flex-md-row">
-        <!-- reverse part to put image on top when mobile -->
-        <div class="pt-4 col-md-5">
-          <br>
-          <br>
-          <br>
-          <br>
-          <p>
-            <font size="6">Hello, I'm <b>Richard Zhu</b>— </font><br>
-            a computer science student at the University of California, Berkeley.
-          </p>
-          <p> I'm from San Diego, CA, but now live in the Bay Area. Some of my interests outside of computer science include soccer, film, fashion, but most of all, travel.</p>
-          <p>Please take a look at my RESUME, as well as some of my projects on GITHUB </p>
-          <p> GO BEARS BABYYYYYYYYYYYYYYYY </p>
+      <div class="pb-4 row flex-md-row">
+        <div class="col-md-5">
         </div>
         <div class="col-md-7">
           <img src="assets/headshot.jpg" class="img-fluid" alt="Responsive image">
         </div>
       </div>
+      <div class="row flex-md-row justify-content-left">
+        <!-- reverse part to put image on top when mobile -->
+        <div class="pt-4 col-md-6">
+          <p>
+            <font size="7">Hi, I'm <b>
+                <font color="#e83a24"> Richard Zhu</b>—</font> </font><br>
+            a computer science student at the University of California, Berkeley. I love programming, design, and education.
+          </p>
+          <p>
+            Please take a look at my <a href="resume.pdf"><u>resume</u></a>!
+          </p>
+        </div>
+      </div>
     </div>
   </div>
-  <!--==========ABOUT ==========-->
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <!--==========END ABOUT ==========-->
+  <!--========== PROJECTS ========== -->
+  <div id="projects">
+    <div class="pt-4 pb-4 container">
+      <div class="row flex-md-row justify-content-center">
+        <!-- reverse part to put image on top when mobile -->
+        <div class="pb-4 col-md-6 text-center">
+          <h1>
+            <font color="#e83a24">Projects</font>
+          </h1>
+        </div>
+      </div>
+      <div class="row flex-md-row">
+        <!-- reverse part to put image on top when mobile -->
+        <div class="col-md-8">
+          <h2>Investment Portfolio Diversity Visualization Tool</h2>
+        </div>
+        <div class="col-md-4">
+          <img src="assets/headshot.jpg" class="img-fluid" alt="Responsive image">
+        </div>
+      </div>
+      <br>
+      <div class="row flex-md-row">
+        <!-- reverse part to put image on top when mobile -->
+        <div class="col-md-8">
+          <h2>Project 2</h2>
+        </div>
+        <div class="col-md-4">
+          <img src="assets/headshot.jpg" class="img-fluid" alt="Responsive image">
+        </div>
+      </div>
+      <br>
+      <div class="row flex-md-row">
+        <!-- reverse part to put image on top when mobile -->
+        <div class="col-md-8">
+          <h2>Project 3</h2>
+        </div>
+        <div class="col-md-4">
+          <img src="assets/headshot.jpg" class="img-fluid" alt="Responsive image">
+        </div>
+      </div>
+      <br>
+      <div class="row flex-md-row">
+        <!-- reverse part to put image on top when mobile -->
+        <div class="col-md-8">
+          <h2>Project 4</h2>
+        </div>
+        <div class="col-md-4">
+          <img src="assets/headshot.jpg" class="img-fluid" alt="Responsive image">
+        </div>
+      </div>
 
-
-  <!-- Optional JavaScript -->
+    </div>
+  </div <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
