@@ -3,6 +3,10 @@ Fonts: Helvetica/Arial, Roboto, Courier New, from the google fonts resources on 
 White or Light Grey Material Background
 Maybe a Material dark / navy background (consider a thinner font if you do this)
 Different shades between the rows.
+COLORS
+White: #FFFFFF
+Orange: #e83a24
+Dark Gray #272727
 
 General Design Principles:
 -Make it as fast to go through as possible: point user (recruiters hopefully) to resume and projects. Minimalist
