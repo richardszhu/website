@@ -8,8 +8,6 @@ Add a dark mode switch
 
 Add a bonus pages: raw HTML retro mode, times new roman and 3d spinny gifs and exclamations and hilarious kitschy cgi renders
 
-Find out how to make heading text align left when the columns start stacing
-
 ## RESUME TO DO:
 
 -remove non CS-related stuff
@@ -53,10 +51,6 @@ BOOTSTRAP:
 https://getbootstrap.com/docs/4.3/getting-started/introduction/
 
 https://getbootstrap.com/docs/4.3/examples/
-
-https://startbootstrap.com/snippets/
-
-https://bootswatch.com/
 
 https://getbootstrap.com/docs/4.0/utilities/spacing/
 
