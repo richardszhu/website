@@ -6,7 +6,7 @@ Continuously revise blueprint
 
 Add a dark mode switch
 
-Add a bonus pages: raw HTML retro mode, times new roman and 3d spinny gifs and exclamations and hilarious kitschy cgi renders
+Add bonus pages: raw HTML retro mode
 
 ## RESUME TO DO:
 
@@ -40,9 +40,6 @@ Personal CS Websites:
 https://anniewtang.github.io/
 
 https://victorface2.github.io/projects/
-
-http://danielrd.com/
-
 
 ## Resources
 
