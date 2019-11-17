@@ -2,7 +2,6 @@
 My Personal Website, made to practice HTML, CSS, Bootstrap, and jQuery. Hosted at ocf.io/rszhu
 
 ## TO DO:
-Continuously revise blueprint
 
 Add a dark mode switch
 
@@ -15,8 +14,6 @@ Add bonus pages: raw HTML retro mode
 -add more projects
 
 -remove high school activities
-
--less white space
 
 -more quantitative descriptions
 
