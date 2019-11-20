@@ -21,6 +21,8 @@ resume resources: prodev@tbp.com or whatever their name is
 
 https://github.com/codebytere/so-you-want-an-internship#resume-books
 
+https://old.reddit.com/r/cscareerquestions/comments/bgxgu6/im_22_i_havent_applied_to_more_than_20_companies/
+
 ## Inspiration:
 https://ced.berkeley.edu/academics/architecture/programs/undergraduate-minor
 
