@@ -3,9 +3,7 @@ My Personal Website, made to practice HTML, CSS, Bootstrap, and jQuery. Hosted a
 
 ## TO DO:
 
-Add a dark mode switch
-
-Add bonus pages: raw HTML retro mode
+Link Bomberman.jar file
 
 ## RESUME TO DO:
 
