@@ -13,7 +13,7 @@ Link Bomberman.jar file
 
 -remove high school activities
 
--more quantitative descriptions
+-XYZ/Quantitative descs
 
 resume resources: prodev@tbp.com or whatever their name is
 
