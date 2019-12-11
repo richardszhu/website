@@ -6,6 +6,7 @@ My Personal Website, made to practice HTML, CSS, Bootstrap, and jQuery. Hosted a
 Link Bomberman.jar file
 
 ## RESUME TO DO:
+-update bomberman description: Event Listeners -- User Input, Game actions
 
 -remove non CS-related stuff
 
