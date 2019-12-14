@@ -34,6 +34,8 @@ http://hellohappy.org/beautiful-web-type/
 
 Personal CS Websites:
 
+https://yakiramirabito.com/
+
 https://anniewtang.github.io/
 
 https://victorface2.github.io/projects/
