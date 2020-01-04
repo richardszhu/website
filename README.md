@@ -41,6 +41,7 @@ https://anniewtang.github.io/
 https://victorface2.github.io/projects/
 
 ## Resources
+https://rsms.me/inter/
 
 BOOTSTRAP:
 
