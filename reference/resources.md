@@ -18,6 +18,8 @@ http://hellohappy.org/beautiful-web-type/
 
 Personal CS Websites:
 
+http://www.hantaowang.me/
+
 https://yakiramirabito.com/
 
 https://anniewtang.github.io/
