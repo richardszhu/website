@@ -1,4 +1,4 @@
-# website
+# ocf.io/rszhu
 My Personal Website, made to practice HTML, CSS, Bootstrap, and jQuery. Hosted at ocf.io/rszhu
 
 ## TO DO:
